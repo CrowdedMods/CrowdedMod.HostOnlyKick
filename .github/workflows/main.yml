@@ -24,4 +24,4 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: CrowdedMod.HostOnlyKick.dll
-          path: CrowdedMod.HostOnlyKick/bin/Release/netstandard2.1/CrowdedMod.HostOnlyKick.dll
+          path: CrowdedMod.HostOnlyKick/CrowdedMod.HostOnlyKick/bin/Release/netstandard2.1/CrowdedMod.HostOnlyKick.dll
